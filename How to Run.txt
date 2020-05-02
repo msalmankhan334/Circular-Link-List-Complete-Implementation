@@ -6,7 +6,7 @@ The Imlementation Contain Four basic files:
 
 =========================================
 #=>main.c contain instructions where the subroustines/functions called, that is defined in the ftns.c
-#=>functions.c contain functions/operations that will be performed on the link list, and can be called from the mina.c
+#=>functions.c contain functions/operations that will be performed on the link list, and can be called from the main.c
 #=>funcheader.h is a header file, containing function prototypes, and node type structure
 =========================================
 
