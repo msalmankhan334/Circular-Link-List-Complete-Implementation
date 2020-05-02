@@ -11,9 +11,9 @@ The Imlementation Contain Four basic files:
 =========================================
 
 You can run this program as:
-1-From linux Command line by runing "make", having working Directory the "Project"
+1-From linux Command line by running "make", having working Directory the "Project"
 2-You can also run this from IDE like CodeBlocks, Dev++ or Clang etc.
-  a) Create an Empty Project, create thress files , main.c , ftns.c and ftnsheader.h copy the Code and past it repectively.
+  a) Create an Empty Project, create thress files , main.c , ftns.c and ftnsheader.h copy the Code and past it respectively.
      click on Build.
 
 All Operations regarding Circular Link List is provided , Use them whatever is your Need.
